@@ -1,3 +1,3 @@
-# Document Folder
+# README.md
 
-To store documents
+This is the introduction.
